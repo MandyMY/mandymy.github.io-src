@@ -1,2 +1,2 @@
 # mandymy.github.io-src
-Mandy's Blog
+This project hold the sources of Mandy's blog.
