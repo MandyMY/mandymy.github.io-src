@@ -1,17 +1,17 @@
 Title: 2015年开源多样化的几大亮点
 Date: 2016-08-07 10:20
 Modified: 2016-08-07 10:20
-Category: Open Source
+Category: OpenSource
 Tags: open source, woman
 Slug: diversity-open-source-highlights-2015
-Authors: Cindy Pallares-Quezada 著，Mandy Wang 译
+Authors: Cindy Pallares-Quezada 著, Mandy Wang 译
 Summary: 目前参与进开源社区的人群仍然缺乏多样性，但是好的一面是，许多人、项目和社区正在努力改善这一现状。我从开源社区在2015年为提高多样性作出的努力中收集了几大亮点。你还会在这个清单里添加哪些发生在2015年的关于开源多样性的故事呢？请在评论中告诉我们。
 
 Source: https://opensource.com/life/15/12/diversity-open-source-highlights-2015
 
-![](https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/yearbook2015-osdc-lead-1.png?itok=rN-X35tE)
-
 目前参与进开源社区的人群仍然缺乏多样性，但是好的一面是，许多人、项目和社区正在努力改善这一现状。我从开源社区在2015年为提高多样性作出的努力中收集了几大亮点。你还会在这个清单里添加哪些发生在2015年的关于开源多样性的故事呢？请在评论中告诉我们。
+
+![Alt Text]({filename}/images/yearbook2015-osdc.png)
 
 ## Outreachy 发展多样性的实习项目
 
